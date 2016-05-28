@@ -55,6 +55,6 @@ It was done only with some great tools, such as :
 * [Facebook: Open Minds Team](https://www.facebook.com/open.minds.oran/)
 * [Abdeldjalil](http://fcmam5.github.io/)
 * [Mokhtar](https://plus.google.com/u/0/117052153378042353097)
-This repository is for everyone you are free to share, or to help us making it more rich :)
 
+This repository is for everyone you are free to share, or to help us making it more rich :)
 We thank Hammadi Ilyes for the Reval.js slides.

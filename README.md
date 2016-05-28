@@ -30,9 +30,12 @@ It was done only with some great tools, such as :
     * [123D Circuits](https://123d.circuits.io)
 * Other tools
     * [Teamviewer](http://teamviewer.com/)
+     
+
 ## Learning Materials:
 * [Slack](https://slack.com/is)
 * [Trello](https://trello.com/tour)
+
 ### Git
 * [Download Git](https://git-scm.com/downloads/)
 
